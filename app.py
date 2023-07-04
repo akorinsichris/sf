@@ -1,5 +1,5 @@
 import streamlit as st
-import snowflake.snowpark import Session
+from snowflake.snowpark import Session
 
 st.title('Streamlit to Snowflake')
 
